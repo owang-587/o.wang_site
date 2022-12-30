@@ -2,8 +2,14 @@ body{
     background: whitesmoke;
 }
 
-img{
+.main{
+    margin-top: 100px;
+}
+
+.profile-img{
     display: block;
-    width: auto;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
     
 }
